@@ -1,0 +1,11 @@
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\bin\Debug\netcoreapp2.2\Human.deps.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.dev.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\bin\Debug\netcoreapp2.2\Human.dll
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\bin\Debug\netcoreapp2.2\Human.pdb
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\obj\Debug\netcoreapp2.2\Human.csprojAssemblyReference.cache
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\obj\Debug\netcoreapp2.2\Human.csproj.CoreCompileInputs.cache
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfoInputs.cache
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfo.cs
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\obj\Debug\netcoreapp2.2\Human.dll
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Human\obj\Debug\netcoreapp2.2\Human.pdb
